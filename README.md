@@ -18,3 +18,12 @@ You will now have your own copy of this excercise on your github profile.
 Link the bootstrap CSS into your HTML
 
 You can find this by looking for the CDN link on [Bootstrap.com](https://getbootstrap.com/docs/4.1/getting-started/introduction/)
+
+
+## Third Task
+
+1. Add a new row in the page that has two columns, with a block of writing in each.
+2. Add a Carousel to the top of your page, with pictures! [instructions here](https://getbootstrap.com/docs/4.1/components/carousel/)
+3. Add a modal to your page [instructions here](https://getbootstrap.com/docs/4.1/components/modal/)
+4. Write over bootstrap! In the 'styles.css' file, change the design of the default CSS styles (this could be colors, fonts, images - the website is your oyster)
+5. Add any more boostrap componenets you think look cool!
