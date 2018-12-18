@@ -10,7 +10,7 @@ You will now have your own copy of this excercise on your github profile.
 - Select the 'open in desktop' option
 - Clone the repo into your coding_course folder, here is an example:
 
-![Example of how to clone into folder using github desktop](./images/clone-in-desktop-example.png =500x)
+![Example of how to clone into folder using github desktop](./images/clone-in-desktop-example.png)
 - Open the folder in Atom
 
 
