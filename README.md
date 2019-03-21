@@ -5,7 +5,7 @@ Welcome to twitter bootstrap! This is a template website that you will use to ex
 ## First Task
 - Click on the 'Fork' icon on the top right of the page, and fork it into your github account.
 You will now have your own copy of this excercise on your github profile.
-- Navigate to your version of this project
+- Navigate to your version of this project.
 - Click 'clone or download'
 - Select the 'open in desktop' option
 - Clone the repo into your coding_course folder, here is an example:
@@ -24,6 +24,6 @@ You can find this by looking for the CDN link on [Bootstrap.com](https://getboot
 
 1. Add a new row in the page that has two columns, with a block of writing in each.
 2. Add a Carousel to the top of your page, with pictures! [instructions here](https://getbootstrap.com/docs/4.1/components/carousel/)
-3. Add a modal to your page [instructions here](https://getbootstrap.com/docs/4.1/components/modal/)
-4. Write over bootstrap! In the 'styles.css' file, change the design of the default CSS styles (this could be colors, fonts, images - the website is your oyster)
-5. Add any more boostrap componenets you think look cool!
+3. Add a modal to your page [instructions here].(https://getbootstrap.com/docs/4.1/components/modal/)
+4. Write over bootstrap! In the 'styles.css' file, change the design of the default CSS styles. (this could be colors, fonts, images - the website is your oyster)
+5. Add any more boostrap components you think look cool!
